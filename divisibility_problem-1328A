@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main(){
     int t;
     long long a,b,x;
